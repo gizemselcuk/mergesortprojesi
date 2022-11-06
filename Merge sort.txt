@@ -1,1 +1,17 @@
-"[16,21,11,8,12,22] dizinin merge sort tŸrŸne gšre aßamalarİnİ yazİnİz"               [16,21,11,8,12,22]     [16,21,11]                    [8,12,22]   [16]   [21,11]              [8]    [12,22]  [16]  [21]  [11]           [8]    [12]   [22]  [16]   [11,21]              [8]    [12,22]    [11,16,21]                    [8,12,22]            [8,11,12,16,21,22]  "[16,21,11,8,12,22] Merge Sort tŸrŸne gšre Big-O gšsterimini yazİnİz"     Merge sort'un Big o gšsterimi: O(nlogn). Liste 6 elemanlİ olduÛundan O(6log6) olacaktİr.
+"[16,21,11,8,12,22] dizinin merge sort tÃ¼rÃ¼ne gÃ¶re aÅŸamalarÄ±nÄ± yazÄ±nÄ±z."  
+
+             [16,21,11,8,12,22] 
+    [16,21,11]                    [8,12,22] 
+  [16]   [21,11]              [8]    [12,22]
+  [16]  [21]  [11]           [8]    [12]   [22]
+  [16]   [11,21]              [8]    [12,22]
+    [11,16,21]                    [8,12,22]
+            [8,11,12,16,21,22]  
+
+"[16,21,11,8,12,22] Merge Sort tÃ¼rÃ¼ne gÃ¶re Big-O gÃ¶sterimini yazÄ±nÄ±z"  
+ 
+
+  Merge sort'un Big o gÅ¡sterimi: O(nlogn). Liste 6 elemanlÄ± olduÄŸundan O(6log6) olacaktÄ°r.
+
+
+
